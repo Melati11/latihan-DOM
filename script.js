@@ -36,6 +36,6 @@ let imageDisplayed = false;
    function disableButton() {
     document.getElementById('incrementButton').disabled = true
    }
-   window.addEventListener('load', welcome);
-   document.getElementById('incrementButton').addEventListener('click', increment);
+  //  window.addEventListener('load', welcome);
+  //  document.getElementById('incrementButton').addEventListener('click', increment);
 //   document.body.onload = welcome
